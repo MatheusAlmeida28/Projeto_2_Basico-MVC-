@@ -12,7 +12,7 @@ while True:
         if resultado == 2:
             print("Tamanho do nome digitado inválido")
         elif resultado == 3:
-            print("Email maior que 200 caracteres")
+            print("Email maior que 100 caracteres")
         elif resultado == 4:
             print("Senha Fraca.Digite uma senha maior que 6 digitos")
         elif resultado == 5:
